@@ -1,0 +1,59 @@
+body {
+
+    
+    font-family:arial; /* Troca a fonte */
+    font-size: 1.5em;  /* Deixa o texto maior*/
+}
+
+h2{
+  width: 940px;
+    margin: 0 auto;
+    display: flex;
+}
+
+
+  .linha {
+    display: flex;        /* Coloca os (p e h3) lado a lado */
+    align-items: center;  /* Alinha verticalmente ao centro */
+    text-indent: 10px;  /* Da um espaço */
+  }
+  h4, p {
+    margin: 0;  } /* Tira a margem Paradrao */
+    h1 {
+      font-size: 3em;
+    }
+    .Texto{
+      
+      color: #6e6e6e;     /* Muda a cor do texto*/
+      text-align: justify; /* Justifica */
+      text-indent: 50px;   
+      display: flex;
+      width: 940px;
+    margin: 0 auto;
+
+     
+    }
+   
+   .titulo h1{
+   
+    background: linear-gradient(to left, rgb(137, 150, 150), #000000);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+   .titulo img{
+    width: auto;
+   width: 200px;
+   }
+   .titulo{
+    width: 940px;
+    margin: 0 auto;
+    display: flex;
+   
+   }
+   .andar{
+
+    width: 940px;
+    margin: 0 auto;
+    display: flex;
+   }
+   
