@@ -6,7 +6,7 @@ body {
 }
 
 h2{
-  width: 940px;
+    width: 940px;
     margin: 0 auto;
     display: flex;
 }
@@ -36,7 +36,7 @@ h2{
    
    .titulo h1{
    
-    background: linear-gradient(to left, rgb(137, 150, 150), #000000);
+    background: linear-gradient(to left, rgb(46, 34, 20), #9c9a9a);
     background-clip: text;
     -webkit-text-fill-color: transparent;
   }
