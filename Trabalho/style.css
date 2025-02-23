@@ -56,4 +56,9 @@ h2{
     margin: 0 auto;
     display: flex;
    }
-   
+   @media screen and (max-width: 768px){.andar,.linha,.Texto,.titulo,h4,p,h2,h1,img{
+    width: 100%;
+    flex-direction: column;
+   }
+    
+   }
